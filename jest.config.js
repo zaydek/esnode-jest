@@ -1,5 +1,5 @@
 module.exports = {
 	transform: {
-		"\\.(jsx?|tsx?)$": "./index.js",
+		"\\.(jsx?|tsx?)$": "jest.transformer.js",
 	},
 }
