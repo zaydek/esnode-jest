@@ -11,6 +11,7 @@
 	},
 	"description": "Jest transformer for .js, .jsx, .ts, and .tsx files, powered by esbuild.",
 	"files": [
+		"babel.config.js",
 		"index.js"
 	],
 	"keywords": [
